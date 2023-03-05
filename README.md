@@ -1,1 +1,1 @@
-# introduction-to-machine-learning
+# Global AI Hub - Introduction to Machine Learning
